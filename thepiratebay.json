@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {"source": "/(.*)", "destination": "https://thepiratebay.org/$1"}
+  ]
+}
