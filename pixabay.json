@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://thepiratebay.org/$1"}
+    {"source": "/(.*)", "destination": "https://pixabay.com/$1"}
   ]
 }
